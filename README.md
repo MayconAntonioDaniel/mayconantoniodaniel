@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>👋Olá, tudo bem !!!</h1> 
 
-<!--
-**MayconAntonioDaniel/mayconantoniodaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maycon Antônio Daniel, atualmente trabalho como Suporte em Tecnologia.<br>
+Estou em busca de um trabalho como programador FRONT END.
+<br>
 
-Here are some ideas to get you started:
+<h2>Formação</h2>
+Sou formado em Tecnologia da Informação e Comunicação na Universidade Federal de Santa Catarina
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Conhecimento</h2>
+Aprendendo e criando projetos com as seguintes tecnologias:
+<br>
+<br>
+<p>- HTML<p>
+<p>- CSS<p>
+<p>- JAVA SCRIPT<p>
+<p>- REACT<p>
+<P>- GIT<p>
+
+<h2>Contato<h2>
