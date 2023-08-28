@@ -1,7 +1,7 @@
 <h1>Sobre</h1> 
 
-&ensp; Olá, meu nome é Maycon Antônio Daniel, atualmente trabalho como Suporte em Tecnologia.
-Sou Bacharel em Tecnologia da Informação e Comunicação, estou em busca de um trabalho como programador FRONT-END.
+&ensp; Olá, meu nome é Maycon Antônio Daniel, atualmente trabalho na area de desenvolvedor.
+Sou Bacharel em Tecnologia da Informação e Comunicação.
 <br>
 
 <h2>🚀Habilidades</h2>
