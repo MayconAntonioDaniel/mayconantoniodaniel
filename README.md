@@ -1,6 +1,6 @@
 <h1>Sobre</h1> 
 
-&ensp; Olá, meu nome é Maycon Antônio Daniel, atualmente trabalho na area de desenvolvedor.
+&ensp; Olá !!! Meu nome é Maycon, atualmente trabalho na area de desenvolvedor.
 Sou Bacharel em Tecnologia da Informação e Comunicação.
 <br>
 
