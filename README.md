@@ -20,9 +20,4 @@ Aprendendo e criando projetos com as seguintes tecnologias:
   <a href="https://github.com/MayconAntonioDaniel" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-logo"/></a>
   <a href="mailto:mayconapd@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<h2>GitHub</h2>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconantoniodaniel&show_icons=true&theme=dracula)
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconantoniodaniel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
