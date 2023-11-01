@@ -1,7 +1,6 @@
 <h1>Sobre</h1> 
 
-&ensp; Olá ! <br>
-Meu nome é Maycon, atualmente trabalho na area de desenvolvedor.
+Olá ! Meu nome é Maycon, atualmente trabalho na area de desenvolvedor.
 Sou Bacharel em Tecnologia da Informação e Comunicação.
 <br>
 
