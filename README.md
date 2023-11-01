@@ -1,6 +1,7 @@
 <h1>Sobre</h1> 
 
-&ensp; Olá !!! Meu nome é Maycon, atualmente trabalho na area de desenvolvedor.
+&ensp; Olá !!!
+Meu nome é Maycon, atualmente trabalho na area de desenvolvedor.
 Sou Bacharel em Tecnologia da Informação e Comunicação.
 <br>
 
@@ -12,6 +13,7 @@ Sou Bacharel em Tecnologia da Informação e Comunicação.
 <img width="144" height="144" src="https://img.icons8.com/color/144/react-native.png" alt="react-native"/>
 </div>
 
+<br>
 <h2>📱Contato e Redes Sociais</h2>
   
   <a href="https://www.linkedin.com/in/maycon-ant%C3%B4nio-daniel-a01883139/" target="blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt= "linkedin-logo"/></a> 
