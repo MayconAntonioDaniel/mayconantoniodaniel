@@ -9,8 +9,7 @@ Sou Bacharel em Tecnologia da Informação e Comunicação.
 <img width="144" height="144" src="https://img.icons8.com/color/144/html-5--v1.png" alt="html-5--v1"/>
 <img width="144" height="144" src="https://img.icons8.com/color/144/css3.png" alt="css3"/> 
 <img width="144" height="144" src="https://img.icons8.com/color/144/javascript--v1.png" alt="javascript--v1"/>
-<img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-<img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img width="144" height="144" src="https://img.icons8.com/color/144/react-native.png" alt="react-native"/>
 </div>
 
 <h2>📱Contato e Redes Sociais</h2>
