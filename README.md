@@ -12,6 +12,7 @@ Olá! Meu nome é Maycon, atualmente trabalho na area de desenvolvedor.
 <img width="144" height="144" src="https://img.icons8.com/color/144/react-native.png" alt="react-native"/>
 <img width="144" height="144" src="https://img.icons8.com/color/144/firebase.png" alt="firebase"/>
 <img width="144" height="144" src="https://img.icons8.com/color/144/material-ui.png" alt="material-ui"/>
+ <img width="144" height="144" src="https://img.icons8.com/color/144/redux.png" alt="material-ui"/>
 </div>
 
 <br>
