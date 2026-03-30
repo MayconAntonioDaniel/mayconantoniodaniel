@@ -11,9 +11,9 @@ Olá! Meu nome é Maycon, atualmente trabalho na area de desenvolvedor.
 <img width="50" height="50" src="https://img.icons8.com/color/144/material-ui.png" alt="material-ui"/>
 <img width="50" height="50" src="https://img.icons8.com/color/144/tailwindcss.png" alt="tailwindcss"/>
 <img width="50" height="50" src="https://img.icons8.com/color/144/javascript--v1.png" alt="javascript--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/144/typescript--v1.png" alt="typescript--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/144/react-native.png" alt="react-native"/> <br/>
-<img width="50" height="50" src="https://img.icons8.com/color/144/nextjs.png" alt="nextjs"/> <br/>
+<img width="50" height="50" src="https://img.icons8.com/color/144/typescript--v1.png" alt="typescript--v1"/> <br/>
+<img width="50" height="50" src="https://img.icons8.com/color/144/react-native.png" alt="react-native"/> 
+<img width="50" height="50" src="https://img.icons8.com/color/144/nextjs.png" alt="nextjs"/> 
 <img width="50" height="50" src="https://img.icons8.com/color/144/redux.png" alt="redux"/>
 <img width="50" height="50" src="https://img.icons8.com/color/144/firebase.png" alt="firebase"/>
 <img width="50" height="50" src="https://img.icons8.com/color/144/nodejs.png" alt="nodejs"/>
