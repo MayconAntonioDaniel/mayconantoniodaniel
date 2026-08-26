@@ -1,7 +1,7 @@
 <h1>Sobre</h1> 
 
-Olá! Meu nome é Maycon, atualmente trabalho na area de desenvolvedor.
-<br>Sou Bacharel em Tecnologia da Informação e Comunicação.
+Olá! Meu nome é Maycon, atualmente trabalho como desenvolvedor.
+<br>Sou graduado em Tecnologia da Informação e Comunicação.
 <br>
 
 <h2>🚀Habilidades</h2>
